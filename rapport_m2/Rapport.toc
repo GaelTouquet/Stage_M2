@@ -1,0 +1,9 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{1}
+\contentsline {chapter}{\numberline {1}Cadre th\IeC {\'e}orique : le mod\IeC {\`e}le standard des particules}{3}
+\contentsline {chapter}{\numberline {2}Cadre experimental : collisionneurs et detection}{4}
+\contentsline {section}{\numberline {2.1}Les collisionneurs}{4}
+\contentsline {section}{\numberline {2.2}La detection}{4}
+\contentsline {paragraph}{L'aimant}{4}
+\contentsline {chapter}{\numberline {3}L'algorithme de particle-flow}{6}
+\contentsline {section}{\numberline {3.1}Le principe du particle flow}{6}
